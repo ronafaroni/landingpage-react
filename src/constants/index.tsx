@@ -46,7 +46,6 @@ import {
   avatar2,
   avatar3,
 } from '@/assets';
-import MobileMenu from '@/components/MobileMenu';
 
 // Header
 export const navMenu: MenuItem[] = [

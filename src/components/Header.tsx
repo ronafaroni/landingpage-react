@@ -8,8 +8,8 @@
  */
 import { Button } from './ui/button';
 import { Popover, PopoverContent, PopoverTrigger } from './ui/popover';
-import { Logo } from '@/components/Logo';
-import { MobileMenu } from './MobileMenu';
+import Logo from '@/components/Logo';
+import MobileMenu from '@/components/MobileMenu';
 import {
   NavigationMenu,
   NavigationMenuContent,

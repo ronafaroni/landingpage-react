@@ -12,7 +12,7 @@ type LogoProps = {
   variant?: 'default' | 'icon';
 };
 
-export const Logo = ({ variant = 'default' }: LogoProps) => {
+const Logo = ({ variant = 'default' }: LogoProps) => {
   return (
     <a
       href=''
@@ -38,3 +38,5 @@ export const Logo = ({ variant = 'default' }: LogoProps) => {
     </a>
   );
 };
+
+export default Logo;

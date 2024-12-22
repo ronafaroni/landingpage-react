@@ -95,4 +95,4 @@ const MobileMenu = ({ navMenu }: MobileMenuProps) => {
   );
 };
 
-export { MobileMenu };
+export default MobileMenu;

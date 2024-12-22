@@ -22,11 +22,6 @@ import { Badge } from '@/components/ui/badge';
 import { Avatar, AvatarImage, AvatarFallback } from '@/components/ui/avatar';
 
 /**
- * Assets
- */
-import { blog1, blog2, blog3 } from '@/assets';
-
-/**
  * Constants
  */
 import { blogData } from '@/constants';
